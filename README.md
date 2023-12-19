@@ -7,6 +7,6 @@ I made my first contact with photonics during a voluntary internship at TU Vienn
 
 > **_NOTE:_**  You can find the online version of my masters thesis [here](https://thesis.jan-dav.id).
 
-In the long run, I am in pursuit of an open and enabling environment for all areas of integrated photonics in academia and industry. With (comutational) photonics, we have a very potent toolbox 🧰 capable to tackle a wide variety of relevant problems (communication 🛰️, sensing 🧬, compute 💿, etc.). However, I believe we can only make full use of its potential as a collaborative community 🤝.
+In the long run, I am in pursuit of an open and enabling environment for all areas of integrated photonics in academia and industry. With (computational) photonics, we have a very potent toolbox 🧰 capable to tackle a wide variety of relevant problems (communication 🛰️, sensing 🧬, compute 💿, etc.). However, I believe we can only make full use of its potential as a collaborative community 🤝.
 
 I have been working at Black Semiconductor and since Feburary traveling after graduation. It's about time to get my hands dirty again: In October I picked up a position as a PhD candidate at [TFP](https://github.com/tfp-photonics) in Karlsruhe, Germany.
